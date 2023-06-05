@@ -1,9 +1,9 @@
-
+import React from 'react';
 import './App.css';
-
+import RouterApp from './router/routes';
 function App() {
   return (
-    <h1>aaa</h1>
+    <RouterApp />
   );
 }
 
